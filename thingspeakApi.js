@@ -1,5 +1,3 @@
-// src/services/thingspeakApi.js
-
 const THINGSPEAK_BASE_URL = "https://api.thingspeak.com";
 
 const DEFAULT_CONFIG = {
