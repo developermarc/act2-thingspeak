@@ -15,7 +15,8 @@ export default defineConfig({
     }),
   ],
   html: {
-    title: "NeuroBotics | Grupo 10"
+    title: "NeuroBotics | Grupo 10",
+    favicon: "./public/favicon.png",
   },
   output: {
     assetPrefix: "/act2-thingspeak"
